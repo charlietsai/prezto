@@ -32,12 +32,18 @@ PRIMARY_FG=black
 SEGMENT_SEPARATOR="\ue0b0"
 PLUSMINUS="\u00b1"
 BRANCH="\ue0a0"
+# BRANCH="\uf113 \ue0a0"
+# BRANCH="  "
 DETACHED="\u27a6"
 CROSS="\u2718"
 LIGHTNING="\u26a1"
 GEAR="\u2699"
-#PROMPT_NL="\ue0b1"
-PROMPT_NL="➜"
+# PROMPT_NL="\ue0b1"
+# PROMPT_NL="\uf460"
+# PROMPT_NL="➜"
+# PROMPT_NL="λ" "
+# PROMPT_NL="⌽"
+# PROMPT_NL=" "
 
 # Begin a segment
 # Takes two arguments, background and foreground. Both can be omitted,
