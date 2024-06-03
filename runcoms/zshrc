@@ -33,8 +33,8 @@ fi
 # Customize to your needs...
 source ~/.profile
 
-__git_files () { 
-    _wanted files expl 'local files' _files     
+__git_files () {
+    _wanted files expl 'local files' _files
 }
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
